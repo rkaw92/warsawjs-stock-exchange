@@ -1,0 +1,30 @@
+{
+  "name": "warsawjs-stock-exchange",
+  "version": "0.1.0",
+  "description": "a fake stock exchange engine in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkaw92/warsawjs-stock-exchange.git"
+  },
+  "keywords": [
+    "stock",
+    "exchange",
+    "demo",
+    "example",
+    "real-time",
+    "trade"
+  ],
+  "author": "Robert Kawecki <robert+npm@rkaw.pl>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rkaw92/warsawjs-stock-exchange/issues"
+  },
+  "homepage": "https://github.com/rkaw92/warsawjs-stock-exchange#readme",
+  "dependencies": {
+    "big.js": "^3.1.3"
+  }
+}
